@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  border-bottom: lightgray solid 1px;
+}
+
+header > div {
+  line-height: 150px;
+  font-size: 48px;
+  font-family: "Montserrat";
+}
+
+header > img {
+  width: 70px;
+  height: 90px;
+  margin-left: 110px;
+  margin: auto 100px;
+}
